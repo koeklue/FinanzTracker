@@ -1,0 +1,5 @@
+package com.example.finanztracker
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
